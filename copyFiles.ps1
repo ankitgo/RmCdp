@@ -1,0 +1,1 @@
+Copy-Item "add.php" "index.php" -Force
