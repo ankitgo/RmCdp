@@ -1,1 +1,1 @@
-Copy-Item "add.php" "index.php" -Force
+Copy-Item "index.php" "\\ankit-lap\RmCdp\index.php" -Force
