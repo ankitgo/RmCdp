@@ -1,1 +1,2 @@
-Copy-Item "index.php" "\\ankit-lap\RmCdp\index.php" -Force
+param([string] $path)
+Copy-Item $path "\\ankit-lap\RmCdp\index.php" -Force
