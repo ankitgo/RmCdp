@@ -4,9 +4,9 @@
 
 <?php
   	# operator
-	print "<h2>php program to subtract two numbers...</h2><br />";
-              $val1 = 20;
-              $val2 = 20;
+	print "<h2>php program to Add two numbers...</h2><br />";
+              $val1 = 50;
+              $val2 = 60;
               $sum = $val2 + $val2;   /* Assignment operator */
               echo "Result(SUM): $sum";
 ?>
