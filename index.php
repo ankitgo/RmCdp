@@ -8,7 +8,7 @@
               $val1 = 50;
               $val2 = 60;
               $sum = $val2 + $val2;   /* Assignment operator */
-              echo "Result(SUM): $sum";
+              echo "<h1>Result(SUM): $sum</h1>";
 ?>
 
 </body>
