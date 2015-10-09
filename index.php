@@ -6,7 +6,7 @@
   	# operator
 	print "<h2>php program to Add two numbers...</h2><br />";
               $val1 = 10;
-              $val2 = 20;
+              $val2 = 70;
               $sum = $val1 + $val2;   /* Assignment operator */
               echo "<h1>Result(SUM): $sum</h1>";
 ?>
